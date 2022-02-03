@@ -10,7 +10,7 @@ If you like it, please consider leaving a github star.  I think that it would be
 ```
 Thanks so much for reaching out. I'm always interested in hearing about what new and exciting opportunities are out there. As a software engineer I'm sure you can imagine that I get a very high volume of recruiters reaching out on LinkedIn. It is a wonderful position of privilege to be in and I'm thankful for it.
 
-It does however mean that I don't have the time to hop on a call with everyone who reaches out. A lot of the time, incoming messages represent a very poor fit indeed.
+It does however mean that I don't have the time to hop on a call with everyone who reaches out. A lot of the time, incoming messages represent a very poor fit.
 
 I would love to continue the conversation, but before I do, I'd like to level set around the level of seniority that you're looking for. 
 
@@ -21,7 +21,7 @@ While I very much appreciate the fact that exceptionally talented and engaged re
 In the absence of detailed information regarding the nature of the opportunity in question, I will be unavailable for further discussion.
 Thanks again for reaching out!
  
-I look forward to hearing from you.
+Thank you again! I look forward to hearing from you.
 
-Alex
+Kyle
 ```
